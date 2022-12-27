@@ -1,0 +1,85 @@
+fitbit category	Get Intraday Time Series	python function	matlab function
+Active Zone Minutes Intraday Time Series	AZM intraday by date	activity_zone_minutes_intraday_series	
+Active Zone Minutes Intraday Time Series	AZM intraday by date	activity_zone_minutes_intraday_series	
+Active Zone Minutes Intraday Time Series	AZM intraday by interval	activity_zone_minutes_intraday_series	
+Active Zone Minutes Intraday Time Series	AZM intraday by interval	activity_zone_minutes_intraday_series	
+Active Zone Minutes Time Series	Get AZM Time Series by Date	activity_zone_time_series	
+Active Zone Minutes Time Series	Get AZM Time Series by Interval	activity_zone_time_series	
+Activity	Get Activity Summary by Date		
+Activity	Log Activity		
+Activity	Get Lifetime Stats		
+Activity	Delete Activity Log		
+Activity	Get Activity Log List		
+Activity	Get Activity TCX		
+Activity	Browse Activity Types		
+Activity	Get Activity Type		
+Activity	Get Frequent Activities		
+Activity	Get Recent Activity Types		
+Activity	Get Favorite Activities		
+Activity	Delete Favorite Activity		
+Activity	Add Favorite Activity		
+Activity	Get Activity Goals		
+Activity	Update Activity Goals		
+Activity Intraday Time Series	Get Activity Intraday Time Series		
+Activity Intraday Time Series	Get Intraday Time Series		
+Activity Intraday Time Series	Get Activity Intraday Time Series		
+Activity Intraday Time Series	Get Intraday Time Series with start and stop time		
+Activity Time Series	Get Activity Resource by Date Range		
+Activity Time Series	Get Activity Tracker Resource by Date Range Time Series		
+Activity Time Series	Get Activity Time Series		
+Activity Time Series	Get Activity Time Series		
+Auth	Get Oauth2 Access Token		
+Auth	Retrieve the active state of an Oauth2 Access token		
+Body and Weight	Get Body Fat Logs by date		
+Body and Weight	Get Body Fat Logs by date and period		
+Body and Weight	Get Body Fat Logs by start and end dates		
+Body and Weight	Log Body Fat		
+Body and Weight	Delete Body Fat log		
+Body and Weight	Get Body Goals		
+Body and Weight	Update Body Fat Goal		
+Body and Weight	Update weight goal		
+Body and Weight	Get weight logs by date		
+Body and Weight	Get weight logs by date and period		
+Body and Weight	Log weight		
+Body and Weight	Delete Weight Log		
+Body and Weight Time Series	Get Body Series by date and period		
+Body and Weight Time Series	Get Body Series by start and end date		
+Breathing Rate	Get Breathing Rate summary by date		
+Breathing Rate	Get Breathing Rate Summary by interval		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+Heart Rate Intraday Time Series	Get Heart Rate Intraday Time Series		
+Heart Rate Time Series	Get Heart Rate Time Series		getActivityIntradayTimeSeries
+Heart Rate Variability	Get HRV Summary by Date		
+Heart Rate Variability Intraday	Get HRV Summary by Interval		
+Sleep	Delete Sleep Log		
+Sleep	Get Sleep Log	get_sleep_logs	
+Sleep	Get Sleep Logs by Date Range	get_sleep_logs	
+Sleep	Get Sleep Logs List	get_sleep_logs_list	
+Sleep	Get Sleep Goal		
+Sleep	Update Sleep Goal		
+Sleep	Log Sleep		
+SpO2	Get SpO2 Summary by Date		
+SpO2	Get SpO2 Summary by Interval		
+Subscriptions	Get a List of Subscriptions		
+Subscriptions	Add a Subscription		
+Subscriptions	Delete a Subscription		
+Temperature	Get Temperature (Core) Summary by Date		
+Temperature	Get Temperature (Core) Summary by Interval		
+Temperature	Get Temperature (Skin) Summary by Date	get_skin_temperature	
+Temperature	Get Temperature (Skin) Summary by Interval	get_skin_temperature	
+User	Get Badges		
+User	Get Profile	get_user_profile	
+User	Update Profile		
